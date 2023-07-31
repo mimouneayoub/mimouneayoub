@@ -1,40 +1,7 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <title>AYOUB MIMOUNE's Data Science and Full-Stack Development Portfolio</title>
-    <style>
-      body {
-        font-family: Arial, sans-serif;
-        line-height: 1.5;
-      }
-      h1 {
-        font-size: 36px;
-        color: #333;
-        margin-bottom: 20px;
-      }
-      h2 {
-        font-size: 24px;
-        color: #333;
-        margin-bottom: 10px;
-      }
-      ul {
-        list-style-type: disc;
-        margin-left: 20px;
-      }
-      li {
-        margin-bottom: 5px;
-      }
-      a {
-        color: #007bff;
-        text-decoration: none;
-      }
-      a:hover {
-        text-decoration: underline;
-      }
-    </style>
-  </head>
-  <body>
+<title>AYOUB MIMOUNE's Data Science and Full-Stack Development Portfolio</title>
+ 
+ 
+ 
     <h1>AYOUB MIMOUNE's Data Science and Full-Stack Development Portfolio <span>&#x1F4BB;&#x1F4BB;</span></h1>
     <p>Welcome to my GitHub repository! This is where I showcase my projects and skills as a data scientist and full-stack developer. <span>&#x1F44B;&#x1F44B;</span></p>
     
@@ -58,5 +25,3 @@
     <p>If you have any questions or would like to collaborate on a project, feel free to reach out to me at [your email address]. I am always open to new opportunities and ideas! <span>&#x1F60A;</span></p>
     
     <p>Thank you for visiting my portfolio! <span>&#x1F44D;</span></p>
-  </body>
-</html>
