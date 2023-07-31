@@ -1,24 +1,62 @@
 <!DOCTYPE html>
 <html>
-  <head> <title>AYOUB MIMOUNE's Data Science and Full-Stack Development Portfolio</title> <style> body { font-family: Arial, sans-serif; line-height: 1.5; } h1 { font-size: 36px; color: #333; margin-bottom: 20px; } h2 { font-size: 24px; color: #333; margin-bottom: 10px; } ul { list-style-type: disc; margin-left: 20px; } li { margin-bottom: 5px; } a { color: #007bff; text-decoration: none; } a:hover { text-decoration: underline; } </style> </head> <body> <h1>AYOUB MIMOUNE's Data Science and Full-Stack Development Portfolio</h1> <p>Welcome to my GitHub repository! This is where I showcase my projects and skills as a data scientist and full-stack developer.</p>
-<h2>About Me</h2>
-<p>I am a passionate and driven individual with a Master's degree in Data Science and experience in full-stack development. My technical skills include:</p>
-<ul>
-  <li>Programming languages: Python, Dart, PHP, JavaScript, HTML, CSS</li>
-  <li>Data Science tools: Pandas, NumPy, Matplotlib, Scikit-Learn, TensorFlow</li>
-  <li>Web development frameworks: Angular, Spring boot, Laravel, Django</li>
-</ul>
-<p>I enjoy working on projects that involve data analysis, visualization, and machine learning. In my free time, I like to explore new technologies, read about the latest trends in the field, and contribute to open-source projects.</p>
-
-<h2>Projects</h2>
-<p>Here are some of the projects I have worked on:</p>
-<ul>
-  <li><a href="#">Project 1:</a> A web application that uses machine learning for Disease Detection.</li>
-  <li><a href="#">Project 2:</a> A full-stack web application for mail management in my faculty. The application is built with Laravel, MySQL, and Bootstrap.</li>
-</ul>
-
-<h2>Contact Me</h2>
-<p>If you have any questions or would like to collaborate on a project, feel free to reach out to me at [your email address]. I am always open to new opportunities and ideas!</p>
-
-<p>Thank you for visiting my portfolio!</p>
+  <head>
+    <meta charset="UTF-8">
+    <title>AYOUB MIMOUNE's Data Science and Full-Stack Development Portfolio</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        line-height: 1.5;
+      }
+      h1 {
+        font-size: 36px;
+        color: #333;
+        margin-bottom: 20px;
+      }
+      h2 {
+        font-size: 24px;
+        color: #333;
+        margin-bottom: 10px;
+      }
+      ul {
+        list-style-type: disc;
+        margin-left: 20px;
+      }
+      li {
+        margin-bottom: 5px;
+      }
+      a {
+        color: #007bff;
+        text-decoration: none;
+      }
+      a:hover {
+        text-decoration: underline;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>AYOUB MIMOUNE's Data Science and Full-Stack Development Portfolio <span>&#x1F4BB;&#x1F4BB;</span></h1>
+    <p>Welcome to my GitHub repository! This is where I showcase my projects and skills as a data scientist and full-stack developer. <span>&#x1F44B;&#x1F44B;</span></p>
+    
+    <h2>About Me <span>&#x1F4AC;</span></h2>
+    <p>I am a passionate and driven individual with a Master's degree in Data Science and experience in full-stack development. My technical skills include:</p>
+    <ul>
+      <li>Programming languages: Python <span>&#x1F40D;</span>, Dart, PHP <span>&#x1F4B0;</span>, JavaScript <span>&#x1F4BB;</span>, HTML <span>&#x1F6E0;</span>, CSS <span>&#x1F3A8;</span></li>
+      <li>Data Science tools: Pandas <span>&#x1F4C3;</span>, NumPy <span>&#x1F52C;</span>, Matplotlib <span>&#x1F4FA;</span>, Scikit-Learn <span>&#x1F9D0;</span>, TensorFlow <span>&#x1F916;</span></li>
+      <li>Web development frameworks: Angular <span>&#x1F3A8;</span>, Spring Boot <span>&#x1F50E;</span>, Laravel <span>&#x1F4E6;</span>, Django <span>&#x1F6E1;</span></li>
+    </ul>
+    <p>I enjoy working on projects that involve data analysis, visualization, and machine learning. In my free time, I like to explore new technologies, read about the latest trends in the field, and contribute to open-source projects. <span>&#x1F913;</span></p>
+    
+    <h2>Projects <span>&#x1F4BB;</span></h2>
+    <p>Here are some of the projects I have worked on:</p>
+    <ul>
+      <li><a href="#">Project 1:</a> A web application that uses machine learning for Disease Detection. <span>&#x1F9A0;</span></li>
+      <li><a href="#">Project 2:</a> A full-stack web application for mail management in my faculty. The application is built with Laravel, MySQL, and Bootstrap. <span>&#x1F4E7;</span></li>
+    </ul>
+    
+    <h2>Contact Me <span>&#x1F4E9;</span></h2>
+    <p>If you have any questions or would like to collaborate on a project, feel free to reach out to me at [your email address]. I am always open to new opportunities and ideas! <span>&#x1F60A;</span></p>
+    
+    <p>Thank you for visiting my portfolio! <span>&#x1F44D;</span></p>
+  </body>
 </html>
