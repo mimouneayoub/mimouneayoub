@@ -21,3 +21,4 @@
 <p>If you have any questions or would like to collaborate on a project, feel free to reach out to me at [your email address]. I am always open to new opportunities and ideas!</p>
 
 <p>Thank you for visiting my portfolio!</p>
+</html>
